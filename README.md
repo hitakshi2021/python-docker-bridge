@@ -29,7 +29,7 @@ Make sure you have **Docker Desktop** installed and running on your machine.
 
 ### 1. Build the Docker Image
 Navigate to the project folder and build the image:
-```bash
+bash
 docker build -t py-bridge:v1 .
 
 
